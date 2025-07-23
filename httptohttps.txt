@@ -12,7 +12,7 @@ RewriteRule .* https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
 added dummy line
 Save file and restart the service
 
-Added webhook option
+Added webhook option in Github
 dvdf
 
 did second change
