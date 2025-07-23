@@ -10,7 +10,6 @@ RewriteRule .* https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
 </VirtualHost>
 
 added dummy line
-added another dummy line
 Save file and restart the service
 
 Added webhook option
