@@ -12,7 +12,7 @@ RewriteRule .* https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
 added dummy line
 Save file and restart the service
 
-Added webhook option with smee client
+Added webhook option
 
 Http to https redirection for Nginx 
 _____________________________________
