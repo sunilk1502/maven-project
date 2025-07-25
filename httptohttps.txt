@@ -14,9 +14,6 @@ Save file and restart the service
 
 Added webhook option
 
-did second change
-
-
 Http to https redirection for Nginx 
 _____________________________________
 
