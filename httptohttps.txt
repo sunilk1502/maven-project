@@ -12,7 +12,7 @@ RewriteRule .* https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
 added dummy line
 Save file and restart the service
 
-Added webhook options hfdhgjgjgju
+Added webhook options
 
 Http to https redirection for Nginx 
 _____________________________________
